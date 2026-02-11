@@ -97,7 +97,8 @@ This project analyzes **HR Attrition Data** using **Microsoft Excel** and **Powe
 
 ## 👥 Team – Brainy Bunch (Mohan Babu University)  
 - **Team Leader**: V. Devi Sree – [Email](mailto:vuppalapatidevisree@gmail.com)  
-- **Members**:  
+- **Members**:
+  - V. Devi Sree
   - Ramanadam Venkata Siva Sai  
   - Dasa Haritha  
   - Gundavarapu N H S H S Nithya  
